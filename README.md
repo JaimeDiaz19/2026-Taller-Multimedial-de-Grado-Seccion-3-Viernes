@@ -1,7 +1,11 @@
 # Taller-Multimedial-de-Grado---Seccion-3-Viernes
 Seccion 3 Viernes 
 
- ### Ejercicio 1 Semana 1
+##Exploración creativa de arte, tecnología y medios digitales interactivos.
+##Cultura web y arte digital.
+
+
+ #### Ejercicio 1 Semana 1
 
  ```
 <!DOCTYPE html>
