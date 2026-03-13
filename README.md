@@ -1,8 +1,8 @@
 # Taller-Multimedial-de-Grado---Seccion-3-Viernes
 Seccion 3 Viernes 
 
-##Exploración creativa de arte, tecnología y medios digitales interactivos.
-##Cultura web y arte digital.
+## Exploración creativa de arte, tecnología y medios digitales interactivos.
+## Cultura web y arte digital.
 
 
  #### Ejercicio 1 Semana 1
