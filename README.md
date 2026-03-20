@@ -4,6 +4,7 @@ Seccion 3 Viernes
 ## Exploración creativa de arte, tecnología y medios digitales interactivos.
 ## Cultura web y arte digital.
 
+https://jaimediaz19.github.io/2026-Taller-Multimedial-de-Grado-Seccion-3-Viernes/w/index.html
 
  #### Ejercicio 1 Semana 1
 
